@@ -66,6 +66,7 @@ This is **challenge 3** where I provide comprehensive guidance to fellow develop
 I aim to **address common mistakes observed in the challenges submitted by other participants**. Through this initiative, I hope to not only solve newbie-level projects but also share valuable insights and tips to aid in their learning journey. As a part of this initiative, I started a series **Frontend Mentor - Learning from mistakes** on Linkedin where I share common mistakes I found in newbies / junior challenges to assist all fellow newcomers in avoiding these pitfalls
 
 
- - [mistake 1 : lang att]()
- - [mistake 2 : inline css]()
- - [when to use inline css]()
+ - [mistake 1 : lang att](https://www.linkedin.com/posts/mennatallah-hesham-b864781b6_frontend-learningfrommistakes-frontenddevelopment-activity-7115995338573803520-Kzrs?utm_source=share&utm_medium=member_desktop)
+ - [mistake 2 : inline css](https://www.linkedin.com/posts/mennatallah-hesham-b864781b6_frontend-learningfrommistakes-css-activity-7117745990236856320-4r1T?utm_source=share&utm_medium=member_desktop)
+ - [when to use inline css](https://www.linkedin.com/posts/mennatallah-hesham-b864781b6_in-the-previous-post-i-emphasized-the-importance-activity-7118139367512027136-pYiA?utm_source=share&utm_medium=member_desktop)
+ - [common css mistakes to avoid](https://www.linkedin.com/posts/mennatallah-hesham-b864781b6_html-css-frontend-activity-7118550010895491072-U3Km?utm_source=share&utm_medium=member_desktop)
